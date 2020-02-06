@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">exer2_arenillo_b7l</string>
+    <string name="roll_label">Roll</string>
+    <string name="reset_label">Reset</string>
+    <string name="disney_logo">Disney Logo</string>
+    <string name="Which_question">Which Disney Character are you?</string>
+    <string name="click_roll_to_start_click_result_to_go_to_the_default">CLick roll to start. Click result to go to the default.</string>
+</resources>
